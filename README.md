@@ -3,9 +3,10 @@
 - 🌱 I’m currently learning everything @BUPT
 - 💞️ I’m looking to collaborate on some small python projects
 - 📫 How to reach me:
-  - email: kjy20030228@icloud.com
+  - YouTube Channel: https://www.youtube.com/channel/UC0b6UcWbLfDpmV6XB4_amJQ
   - instagram: https://www.instagram.com/_andy_kang/
   - twitter: https://twitter.com/_andy_kang
+  - email: kjy20030228@icloud.com
 
 <!---
 3DRX/3DRX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

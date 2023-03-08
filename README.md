@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @3DRX
-- 👀 I’m interested in web dev, ML and BlockChain
+- 👀 I’m interested in full stack web dev, ML and BlockChain
 - 🌱 I’m currently learning everything @BUPT
-- 💞️ I’m looking to collaborate on some small python projects
+- 💞️ I’m looking to collaborate on full stack web app projects
 - 📫 How to reach me:
   - YouTube Channel: https://www.youtube.com/channel/UC0b6UcWbLfDpmV6XB4_amJQ
   - instagram: https://www.instagram.com/_andy_kang/
-  - twitter: https://twitter.com/_andy_kang
   - email: kjy20030228@icloud.com
 
 <!---

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @3DRX
-- 👀 I’m interested in full stack web dev, ML and BlockChain
+- 👀 I’m interested in full stack web dev and ML
 - 🌱 I’m currently learning everything @BUPT
 - 💞️ I’m looking to collaborate on full stack web app projects
 - 📫 How to reach me:

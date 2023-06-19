@@ -5,6 +5,7 @@
 - 📫 How to reach me:
   - YouTube Channel: https://www.youtube.com/channel/UC0b6UcWbLfDpmV6XB4_amJQ
   - instagram: https://www.instagram.com/_andy_kang/
+  - Blog: https://3drx.top
   - email: kjy20030228@icloud.com
 
 <!---

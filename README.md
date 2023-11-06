@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @3DRX
-- 👀 I’m interested in full stack web dev and ML
-- 🌱 I’m currently learning everything @BUPT
-- 💞️ I’m looking to collaborate on full stack web app projects
+- 👀 I’m interested in Full-Stack Web, ML, and WebRTC
 - 📫 How to reach me:
   - YouTube Channel: https://www.youtube.com/channel/UC0b6UcWbLfDpmV6XB4_amJQ
   - Instagram: https://www.instagram.com/_andy_kang/
